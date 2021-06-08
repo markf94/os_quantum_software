@@ -16,8 +16,10 @@ Also please check out the [Unitary Fund](http://unitary.fund/)'s 4k$ grant proje
 - [Quantum annealing](#quantum-annealing)
 - [Quantum algorithms](#quantum-algorithms)
 - [Quantum compilers](#quantum-compilers)
+- [Quantum converters](#quantum-converters)
 - [Quantum assembly](#quantum-assembly)
 - [Quantum control](#quantum-control)
+- [Quantum interoperability](#quantum-interoperability)
 - [Quantum error correction](#quantum-error-correction)
 - [Quantum and post-quantum cryptography](#quantum-and-post-quantum-cryptography)
 - [Experimental quantum computing](#experimental-quantum-computing)
@@ -162,6 +164,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **C++**
 - [XACC VQE](https://github.com/ornl-qci/xacc-vqe) - Variational quantum eigensolver built on [XACC](https://github.com/ORNL-QCI/xacc) for distributed, and shared memory systems.
 
+**HTML**
+- [myQShor](https://github.com/Michaelvll/myQShor) - Quantum implementation of Shor's algorithm.
+
 **Julia**
 - [QuantumTomography.jl](https://github.com/BBN-Q/QuantumTomography.jl) - Julia package to perform quantum state and process tomography.
 
@@ -215,6 +220,13 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **Common Lisp**
 - [quilc](https://github.com/rigetti/quilc) - Rigetti's optimizing Quil compiler.
 
+## Quantum converters
+**Javascript**
+- [qconvert-js](http://github.com/quantastica/qconvert-js)  Quantastica's quantum programming language converter in Javascript.
+
+**Python**
+- [qconvert](http://github.com/quantastica/qconvert)  Quantastica's quantum programming language converter in Python.
+
 ## Quantum assembly
 
 - [Blackbird](https://github.com/XanaduAI/blackbird) - Open-source quantum instruction language currently used for Xanadu's photonic hardware.
@@ -227,6 +239,10 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **Python**
 - [C3](https://github.com/q-optimize/c3) - Open-loop, closed-loop and automated Control, Calibration and Characterization of quantum devices.
 - [Krotov](https://github.com/qucontrol/krotov) - Python implementation of Krotov's method for quantum optimal control.
+
+## Quantum interoperability
+
+- [scikit-quant](https://github.com/scikit-quant/scikit-quant) - This is a package to improve interopability between different quantum computer software packages.
 
 ## Quantum error correction
 
@@ -244,6 +260,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [PQClean](https://github.com/PQClean/PQClean) - Clean, portable, tested implementations of post-quantum cryptography.
 
 **Python**
+- [Crypto-Vinaigrette](https://github.com/aditisrinivas97/Crypto-Vinaigrette) - Quantum-resistant asymmetric key generation tool for digital signatures.
 - [QRL](https://github.com/theQRL/QRL/) - [Quantum Resistant Ledger](https://theqrl.org/) utilizing hash-based one-time merkle tree signature scheme instead of ECDSA.
 
 ## Experimental quantum computing
